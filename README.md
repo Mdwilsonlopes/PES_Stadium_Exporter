@@ -61,3 +61,7 @@ Thanks to the following people who have contributed to this project:
 
 ## License
 This project uses the [MIT License](LICENSE.md).
+
+## Escuridão: solução confirmada na Arena Gramadense
+
+[Diagnóstico, restauração da luz Jbpes e teste no jogo](docs/ARENA_GRAMADENSE_ESCURIDAO_JBPES_2026-10-26.md), confirmado pelo usuário em 26/10/2026. Priorizar a comparação da camada efetiva de iluminação e dos addons da referência funcional; corrigir apenas IDs não resolveu este caso. Registro de procedimento, sem acrescentar reparo automático ao projeto.

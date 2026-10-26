@@ -1,0 +1,99 @@
+{
+  "case_id": "arena-gramadense-darkness-jbpes-2026-10-26",
+  "date": "2026-10-26",
+  "status": "user_confirmed_in_game_success",
+  "effective_id": "059",
+  "negative_control": "ID aligned, darkness persisted",
+  "successful_intervention": "Restore four original same-stadium Jbpes light archives and sixteen referenced LUT files",
+  "modified": 4,
+  "added": 16,
+  "unchanged": 96,
+  "automatic_evidence": "SHA-256 and re-extraction of installed archives; no renderer test",
+  "human_evidence": "User reported successful in-game test after intervention",
+  "conditions_individually_confirmed": [],
+  "not_isolated": "Individual contribution of each restored file",
+  "assets": {
+    "Asset/model/bg/st059/light/#Win/light_st059_af.fpk": {
+      "size": 7022064,
+      "sha256": "7049fb46dc06eaa762d3f76d7cb839848908cf1e469ad83952424b4aa5a5af91"
+    },
+    "Asset/model/bg/st059/light/#Win/light_st059_af.fpkd": {
+      "size": 1250256,
+      "sha256": "1c48ea17dd1d67f71f83d83613bdd8a8ae2f26aa225a50c5a5b5ad7a532c11a2"
+    },
+    "Asset/model/bg/st059/light/#Win/light_st059_ar.fpk": {
+      "size": 931952,
+      "sha256": "131b565643383d02b9b40dfdc250a1f438cbda75247e008e446e81130dff0a07"
+    },
+    "Asset/model/bg/st059/light/#Win/light_st059_ar.fpkd": {
+      "size": 1193280,
+      "sha256": "7531b82972d88810cbff31211e847259b97fd7d9c98b895470573e622e9f1ca4"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_cloudy_demo.ftex": {
+      "size": 185089,
+      "sha256": "0770ef2ba793f2febf39e2f1ecc6663647ffb8dd8fbd0e941a3fdbcc0c62e5ac"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_cloudy_game.ftex": {
+      "size": 185089,
+      "sha256": "0770ef2ba793f2febf39e2f1ecc6663647ffb8dd8fbd0e941a3fdbcc0c62e5ac"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_day_demo.ftex": {
+      "size": 185392,
+      "sha256": "804f1cda90160a99ffd72b43fe6a3f7dcafe845796d2b5262eebbd3693c9fe0d"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_day_game.ftex": {
+      "size": 185392,
+      "sha256": "c19d5131deaf206b1cd04b315661751b75141fef6ee15b6c30b16c0f8baeac2a"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_evening_demo.ftex": {
+      "size": 187255,
+      "sha256": "2c4f30fe22bb9149fb1d267e9665dedbfeb06ce8474e7c9fc41febead4906cd6"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_evening_game.ftex": {
+      "size": 186368,
+      "sha256": "780dac94e537433aeeefba4f05fbd5b195e93e3e45002c0d47d258cb6edfb198"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_night_demo.ftex": {
+      "size": 161962,
+      "sha256": "e6f31b5949ae93aca93e59ab3fbf41bf7354bec82e3c86be03f2987f6f872238"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_h_night_game.ftex": {
+      "size": 161576,
+      "sha256": "524a22228413bba4a5182b2567a5c1dcfd55d5f1a34caa6f93851f5a5a9644db"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_cloudy_demo.ftex": {
+      "size": 185089,
+      "sha256": "0770ef2ba793f2febf39e2f1ecc6663647ffb8dd8fbd0e941a3fdbcc0c62e5ac"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_cloudy_game.ftex": {
+      "size": 185089,
+      "sha256": "0770ef2ba793f2febf39e2f1ecc6663647ffb8dd8fbd0e941a3fdbcc0c62e5ac"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_day_demo.ftex": {
+      "size": 185392,
+      "sha256": "c19d5131deaf206b1cd04b315661751b75141fef6ee15b6c30b16c0f8baeac2a"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_day_game.ftex": {
+      "size": 185392,
+      "sha256": "c19d5131deaf206b1cd04b315661751b75141fef6ee15b6c30b16c0f8baeac2a"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_evening_demo.ftex": {
+      "size": 187255,
+      "sha256": "2c4f30fe22bb9149fb1d267e9665dedbfeb06ce8474e7c9fc41febead4906cd6"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_evening_game.ftex": {
+      "size": 186368,
+      "sha256": "780dac94e537433aeeefba4f05fbd5b195e93e3e45002c0d47d258cb6edfb198"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_night_demo.ftex": {
+      "size": 161962,
+      "sha256": "e6f31b5949ae93aca93e59ab3fbf41bf7354bec82e3c86be03f2987f6f872238"
+    },
+    "Asset/model/bg/common/lut/#windx11/lut_s_night_game.ftex": {
+      "size": 161576,
+      "sha256": "524a22228413bba4a5182b2567a5c1dcfd55d5f1a34caa6f93851f5a5a9644db"
+    }
+  },
+  "priority": "Early diagnostic check requested by user; prevalence not measured",
+  "privacy": "Relative paths and hashes only; no proprietary assets or personal paths"
+}

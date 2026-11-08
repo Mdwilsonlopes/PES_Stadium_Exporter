@@ -65,3 +65,7 @@ This project uses the [MIT License](LICENSE.md).
 ## Escuridão: solução confirmada na Arena Gramadense
 
 [Diagnóstico, restauração da luz Jbpes e teste no jogo](docs/ARENA_GRAMADENSE_ESCURIDAO_JBPES_2026-10-26.md), confirmado pelo usuário em 26/10/2026. Priorizar a comparação da camada efetiva de iluminação e dos addons da referência funcional; corrigir apenas IDs não resolveu este caso. Registro de procedimento, sem acrescentar reparo automático ao projeto.
+
+## Parque do Sabiá — descobertas confirmadas e prevenção No Intruder
+
+[Faixas herdadas, normais FOX e acabamento entre setores](docs/PARQUE_SABIA_NO_INTRUDER_NORMAIS_ACABAMENTO_2026-11-08.md): v38 aprovada pelo usuário em partida; proteção contra as quatro faixas invasoras, correção de superfícies pretas e verificações de preservação. Acabamento v39 e Kirov Stadium 85 ID019 instalados, com novos testes no jogo pendentes. Registro documental do trabalho local; não acrescenta automaticamente essas funções ao código deste repositório.
